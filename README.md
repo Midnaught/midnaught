@@ -1,16 +1,18 @@
-### Hi there 👋
+# About Me
 
-<!--
-**Midnaught/midnaught** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm a graduate student studying cybersecurity and privacy. Some of my main interests are:
 
-Here are some ideas to get you started:
+- **Research**: I love reading about the latest and greatest in tech and cyber. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming**: I am not *great* at coding, rather coming from the angle of security, I prefer to have a general understanding of several languages so I can read and analyze code snippits to determine if they are malicious or not. My most comfortable language is Python.
+
+- **Malware and Software Analysis**: Although an extremely challenging and relatively chaotic field, I enjoy it. I'm not good at it. I still love it. 
+
+- **Data Analysis**: In my undergrad, I was on a research project which combined machine learning with malware analysis. I still occasionally pick up projects in this area.
+
+* * *
+# About Midnight Clan
+Those of you who found this page from Discord may have seen reference to my online gaming and ethical security / research group depending on the server. Midnight Clan promotes information security awareness and shares free resources on how to stay secure with the public. On the side we hang out casually on some games. We're hoping to have our new website done around mid-summertime.
+
+# Contact
+If you ever need to reach me, add my Discord with this same tag, or use the latest email linked on my [public GitHub page](https://midnaught.github.io/). Kindly note this is my public alias (more associated with gaming rather than my professional stuff). I do not use most major social media platforms.
