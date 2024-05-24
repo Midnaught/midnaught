@@ -12,7 +12,7 @@ Hey! I'm a graduate student studying cybersecurity and privacy. Some of my main 
 
 * * *
 # About Midnight Clan
-Those of you who found this page from Discord may have seen reference to my online gaming and ethical security / research group depending on the server. Midnight Clan promotes information security awareness and shares free resources on how to stay secure with the public. On the side we hang out casually on some games. We're hoping to have our new website done around mid-summertime.
+Those of you who found this page from Discord may have seen reference to my online gaming and ethical security / research group depending on the server. Midnight Clan promotes information security awareness and shares free resources on how to stay secure with the public. On the side we hang out casually on some games. We're hoping to have our new website done around mid-summertime. Please note this is a friend group simply passionate about promoting online safety and not a registered business.
 
 # Contact
 If you ever need to reach me, add my Discord with this same tag, or use the latest email linked on my [public GitHub page](https://midnaught.github.io/). Kindly note this is my public alias (more associated with gaming rather than my professional stuff). I do not use most major social media platforms.
