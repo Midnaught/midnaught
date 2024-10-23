@@ -11,8 +11,5 @@ Hey! I'm a graduate student studying cybersecurity and privacy. Some of my main 
 - **Data Analysis**: In my undergrad, I was on a research project which combined machine learning with malware analysis. I still occasionally pick up projects in this area.
 
 * * *
-# About Midnight Clan
-Those of you who found this page from Discord may have seen reference to my online gaming and ethical security / research group depending on the server. Midnight Clan promotes information security awareness and shares free resources on how to stay secure with the public. On the side we hang out casually on some games.
-
 # Contact
 If you ever need to reach me, add my Discord with this same tag, or use the latest email linked on my [public GitHub page](https://midnaught.github.io/). Kindly note this is my public alias (more associated with gaming rather than my professional stuff). I do not use most major social media platforms.
